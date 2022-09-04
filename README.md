@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @awlFCCamp
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Node.js
-- 💞️ I’m looking to collaborate on any elaborate React projects
+
 
 
 <!---
