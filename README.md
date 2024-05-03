@@ -7,7 +7,7 @@
 - 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=react,next,redux,typescript,js,scss,tailwindcss,postgres,mysql,mongodb,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,next,redux,typescript,js,scss,tailwindcss)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=express,node,spring)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,mongoose,prisma)](https://skillicons.dev)
 <!---
