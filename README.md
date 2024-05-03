@@ -8,7 +8,7 @@
 
 ## Tech Stack
 - [![My Skills](https://skillicons.dev/icons?i=react,next,redux,typescript,js,scss,tailwindcss)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=express,nodejs,java,spring,python)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=express,nodejs,java,spring,python,restapi)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=jest,cypress,selenium,git,github,aws,figma)](https://skillicons.dev)
 
