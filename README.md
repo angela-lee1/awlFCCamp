@@ -13,7 +13,7 @@
 - [![My Skills](https://skillicons.dev/icons?i=jest,cypress,selenium,git,github,aws,docker,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
-- [![My Skills](https://skillicons.dev/icons?i=graphql,githubaction,terraform)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=graphql,ghaction,terraform)](https://skillicons.dev)
 
 ## 🏆 Achievements
 
