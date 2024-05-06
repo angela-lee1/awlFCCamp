@@ -16,7 +16,7 @@
 ## 🌱 Currently Exploring
 
 ## 🏆 Achievements
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZK2H5fk/awsccp.png" alt="awsccp" border="0" width="150px" height="150px"></a><br /><br />
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/ZK2H5fk/awsccp.png" alt="awsccp" border="0" width="100px" height="100px"></a><br /><br />
 
 ## 📬 Get in Touch
 <!---
