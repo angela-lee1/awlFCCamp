@@ -16,7 +16,7 @@
 ## 🌱 Currently Exploring
 
 ## 🏆 Achievements
-<img src="https://ibb.co/WFVDZHY" alt=""/>
+<img src="https://ibb.co/WFVDZHY" width="250px" height="250px" alt=""/>
 
 ## 📬 Get in Touch
 <!---
