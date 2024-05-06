@@ -16,6 +16,7 @@
 ## 🌱 Currently Exploring
 
 ## 🏆 Achievements
+<img src="https://www.credly.com/badges/9a834797-8a06-4d0e-b6e4-5ff9e0de469b" alt=""/>
 
 ## 📬 Get in Touch
 <!---
