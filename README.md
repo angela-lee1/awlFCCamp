@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @awlFCCamp
 - 👀 I’m interested in Full Stack Web Development
   
-<!--![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=awlfccamp&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)-->
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awlfccamp&show_icons=true&locale=en&layout=compact" alt=""/>
 
 ## 🚀 About Me
