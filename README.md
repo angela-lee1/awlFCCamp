@@ -24,6 +24,6 @@ awlFCCamp/awlFCCamp is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 - [Frontend Mentor](https://www.frontendmentor.io/profile/awlFCCamp/solutions)
-- Leetcode (https://leetcode.com/u/angela13/)
-- HackerRank (https://www.hackerrank.com/profile/angelawlee07)
-- Codewars (https://www.codewars.com/users/Angelawlee)
+- [Leetcode](https://leetcode.com/u/angela13/)
+- [HackerRank](https://www.hackerrank.com/profile/angelawlee07)
+- [Codewars](https://www.codewars.com/users/Angelawlee)
