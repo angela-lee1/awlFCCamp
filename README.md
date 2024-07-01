@@ -5,7 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=awlfccamp&show_icons=true&locale=en&layout=compact" alt=""/>
 
 ## 🚀 About Me
-- I’m currently working as a developer on an [HackforLA](https://www.hackforla.org/).
+- I’m currently working as a developer for [HackforLA](https://www.hackforla.org/).
 
 ## Tech Stack
 - [![My Skills](https://skillicons.dev/icons?i=react,next,redux,typescript,js,scss,tailwindcss)](https://skillicons.dev)
