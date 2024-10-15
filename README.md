@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development
   
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=awlfccamp&show_icons=true&locale=en&layout=compact" alt=""/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=angela-lee1&show_icons=true&locale=en&layout=compact" alt=""/>
 
 ## 🚀 About Me
 - I’m currently working as a developer for [HackforLA](https://www.hackforla.org/).
